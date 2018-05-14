@@ -6,7 +6,5 @@ export class Categorie {
   nomCategorie:string;
   description:string;
 
-  constructor() {
-
-  }
+  constructor() {}
 }
