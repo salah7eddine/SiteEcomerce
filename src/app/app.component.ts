@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  contacts={nom:"Abousaid",email:"med@gmail.com"};
+  nav1=["Produit", "Nouveau Produit"];
+
+
 }
+
+
